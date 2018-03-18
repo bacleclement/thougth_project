@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  mood_check: one
+  title: MyString
+  hour: MyString
+  created_at: 2018-03-17 20:49:05
+  description: MyText
+
+two:
+  type: 
+  mood_check: two
+  title: MyString
+  hour: MyString
+  created_at: 2018-03-17 20:49:05
+  description: MyText

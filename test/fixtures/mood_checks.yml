@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  profil: one
+  situation: MyString
+  type: 
+  thougth: MyText
+  emotion: MyString
+  emotion_level: 1
+  physiological: MyString
+  negative_proof: MyText
+  positive_proof: MyText
+  created_at: 2018-03-18 08:13:07
+
+two:
+  profil: two
+  situation: MyString
+  type: 
+  thougth: MyText
+  emotion: MyString
+  emotion_level: 1
+  physiological: MyString
+  negative_proof: MyText
+  positive_proof: MyText
+  created_at: 2018-03-18 08:13:07
